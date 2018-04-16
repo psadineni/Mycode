@@ -40,12 +40,12 @@
   
 <distributionManagement>
     <repository>
-        <id>rajesh</id>
+        <id>deployment</id>
         <name>rajesh-releases</name>
         <url>http://34.201.32.2:8081/repository/maven-releases/</url>
     </repository>
     <snapshotRepository>
-        <id>rajesh</id>
+        <id>deployment</id>
         <name>rajesh-snapshots</name>
         <url>http://34.201.32.2:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
